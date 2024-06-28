@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "drink": "Cerveja",
+      "price": "9.99"
+    },    {
+      "id": 2,
+      "drink": "Vinho",
+      "price": "8.88"
+    }
+  ],
+}
